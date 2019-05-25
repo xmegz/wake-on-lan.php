@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Wol", "..\..\..\..\..\..\Users\hp\Documents\Visual Studio 2017\Projects\Wol\Wol\Wol.phpproj", "{EB4D4C2E-C095-463F-9787-1C4AA75C5E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4D4C2E-C095-463F-9787-1C4AA75C5E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4D4C2E-C095-463F-9787-1C4AA75C5E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123308BC-14AC-4397-9183-63AE92C58AD0}
+	EndGlobalSection
+EndGlobal
