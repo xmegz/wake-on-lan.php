@@ -8,18 +8,18 @@ Send magic packet from php to wake up a host using "Wake on Lan"
 
 # Requirements
 * Windows Operation System
-* XAMPP or IIS
-* PHP5 or PHP7
+* PHP7
+* PHP7 enabled socket extension
 * Internet connection for CDN includes (.js, .css)
 
 # Installation
 * Either clone the repository or download the zip file
 * Copy the file ```index.php``` to a directory on your web server.
+* Fill ```hosts.js``` with hosts data.
 
 
 # Setup
 Open your favorite browser and navigate to the ```index.php``` url.
-Now you can start adding your the hosts you want to wake.
 
 * _Wake up!_ - send a magic packet for the selected host.
 
