@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Wol", "..\..\..\..\..\..\Users\hp\Documents\Visual Studio 2017\Projects\Wol\Wol\Wol.phpproj", "{EB4D4C2E-C095-463F-9787-1C4AA75C5E7B}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Wol", "Wol\Wol.phpproj", "{EB4D4C2E-C095-463F-9787-1C4AA75C5E7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

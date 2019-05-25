@@ -373,7 +373,7 @@ if(!$MESSAGE) $MESSAGE = '';
         </div>
         <footer>
             <hr />
-            <p class="pull-right">Copyright &copy; 2017 Andras Schaefer &lt;asc@schaefer-it.net&gt;</p>
+            <p class="pull-right">Copyright and source information: <a href="https://github.com/xmegz/wake-on-lan.php" data-lang-ckey="wake-on-lan">Github</a></p>
         </footer>
     </div>
     <script>
