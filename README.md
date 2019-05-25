@@ -21,7 +21,7 @@ Send magic packet from php to wake up a host using "Wake on Lan"
 # Setup
 Open your favorite browser and navigate to the ```index.php``` url.
 
-* _Wake up!_ - send a magic packet for the selected host.
+* _Wake_ - send a magic packet for the selected host.
 
 # Caveat
 Does not run under linux. Because the linux user used to run php code on the server side usually has very limited permission it cannot create the raw socket to send the magic packet.
